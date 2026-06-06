@@ -114,6 +114,12 @@ LIMIT 5;
 * Studied monthly sales trends.
 * Generated business recommendations based on KPI analysis.
 
+
+
+<img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/b96c592c-a79b-46c6-9124-e1ba50a6aeb8" />
+<img width="1162" height="655" alt="Screenshot 2026-06-06 164222" src="https://github.com/user-attachments/assets/1e33a3b8-fedd-4a27-af2b-5c99a35c0fe7" />
+
+
 ## Author
 
 Shashank Awasthi
