@@ -116,7 +116,8 @@ LIMIT 5;
 
 
 
-<img width="1162" height="655" alt="image" src="https://github.com/user-attachments/assets/b96c592c-a79b-46c6-9124-e1ba50a6aeb8" />
+<img width="1200" height="632" alt="Screenshot 2026-06-05 121129" src="https://github.com/user-attachments/assets/9f778a78-847a-4505-a061-8d6712706c82" />
+
 <img width="1162" height="655" alt="Screenshot 2026-06-06 164222" src="https://github.com/user-attachments/assets/1e33a3b8-fedd-4a27-af2b-5c99a35c0fe7" />
 
 
